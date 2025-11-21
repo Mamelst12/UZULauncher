@@ -3,7 +3,7 @@
 ## How to run 💫
 1. [UZULauncher.zip]() 다운로드
 2. 원하는 폴더에 압축 풀기
-3. UZU Launcher Setup 1.0.0.exe 실행
+3. UZULauncher Setup 1.0.0.exe 실행
 4. 다운로드
 5. 마인크래프트 로그인 후 Play 버튼 클릭
 #### 급하게 만든 런처라 다소 문제가 있을 수 있습니다! 양해 부탁드립니다 ㅜ
