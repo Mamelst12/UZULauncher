@@ -21,7 +21,7 @@
 * ##### A. 업데이트 시 '모든 모드의 버전이 업데이트 되면서 참여가 불가능'합니다. 이 점 참고해주세요.
 --- 
 ### 문제 발생시 ‼️
-  * [UZUProfile.zip](https://github.com/Mamelst12/UZULauncher/raw/refs/heads/main/UZUProfile.zip?download=)을 다운로드해 CurseForge로 불러와주세요.
+  * [UZU.zip](https://github.com/Mamelst12/UZULauncher/raw/refs/heads/main/UZU.zip?download=)을 다운로드해 CurseForge로 불러와주세요.
   * 위 방법이 적용되지 않을 시, 아래 링크와 사진의 버전을 참조해 다운로드 후 CurseForge로 실행해주세요.
 ### 적용된 모드
   <img width="274" height="205" alt="Image" src="https://github.com/user-attachments/assets/6584f297-0166-47d0-8998-e9cc575f4fe9" />
