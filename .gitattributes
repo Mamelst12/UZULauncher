@@ -1,1 +1,2 @@
 UZULauncher filter=lfs diff=lfs merge=lfs -text
+UZULaunchers filter=lfs diff=lfs merge=lfs -text
